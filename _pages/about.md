@@ -2,19 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -26,4 +23,4 @@ During my undergraduate studies, I actively volunteered in various activities, s
 
 I have also received several honors and awards throughout my undergraduate studies, including scholarships from the University of Crete and the State Scholarships Foundation (IKY).
 
-For more details, please refer to my detailed CV.
+For more details, please refer to my [detailed CV](https://aangelakis.github.io/assets/pdf/Curriculum_Vitae.pdf).
