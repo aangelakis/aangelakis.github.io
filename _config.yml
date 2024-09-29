@@ -52,7 +52,7 @@ footer_fixed: true
 
 
 # Dimensions
-max_width: 800px
+max_width: 900px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -111,7 +111,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  I love playing video games and listening to music. Feel free to reach out to me if you share the same interests!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
