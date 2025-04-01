@@ -15,12 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a MSc student in [Computer Science and Engineering at University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), and currently a graduate research fellow at [IACM-FORTH](https://www.iacm.forth.gr/). I work on topics related to machine learning, deep learning, software development, and data science with [Yannis Pantazis](https://sites.google.com/site/yannispantazis/). My interests span the areas of deep learning, signal (speech) processing, and machine learning. 
+I am an MSc student in Computer Science and Engineering at the [University of Crete](https://www.uoc.gr/en/home/), working with Dr. [George Kafentzis](https://www.csd.uoc.gr/~kafentz/) on adaptive MFCCs for speech signal processing. I also serve as a Teaching Assistant in his courses.
 
-I obtained my BSc from the Computer Science Department of the University of Crete, where I graduated 7th out of 49 students in my class in July 2023 with honors, achieving a GPA of 8.77/10.00.
+In parallel, I am a research intern at the Data Science Lab of [IACM-FORTH](https://www.iacm.forth.gr/), collaborating with Dr. [Yannis Pantazis](https://sites.google.com/site/yannispantazis/) on projects involving machine learning, generative AI, and representation learning, including contributions to the [NeuroDiMe](https://github.com/YannisPantazis/neuroDiME) library.
 
-During my undergraduate studies, I actively volunteered in various activities, such as peer mentoring, assisting with presentations and events for high school students, and serving as a teaching assistant.
+I hold a BSc in Computer Science from the University of Crete (GPA: 8.77/10.00, 7th out of 49), where I also served as a teaching assistant for multiple undergraduate courses, a peer mentor, and participated in outreach events.
 
-I have also received several honors and awards throughout my undergraduate studies, including scholarships from the University of Crete and the State Scholarships Foundation (IKY).
+I have received several academic honors, including undergraduate scholarships from the University of Crete and the [State Scholarships Foundation (IKY)](https://www.iky.gr/en/).
 
 For more details, please refer to my [detailed CV](https://aangelakis.github.io/assets/pdf/Curriculum_Vitae.pdf).
