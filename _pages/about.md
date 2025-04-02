@@ -23,4 +23,4 @@ I hold a BSc in Computer Science from the University of Crete (GPA: 8.77/10.00, 
 
 I have received several academic honors, including undergraduate scholarships from the University of Crete and the [State Scholarships Foundation (IKY)](https://www.iky.gr/en/).
 
-For more details, please refer to my [detailed CV](https://aangelakis.github.io/assets/pdf/Curriculum_Vitae.pdf).
+For more details, please refer to my [detailed CV](https://aangelakis.github.io/assets/pdf/cv.pdf).
