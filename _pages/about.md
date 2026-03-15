@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 
 
-I am an MSc student in Computer Science and Engineering at the [University of Crete](https://www.csd.uoc.gr) (GPA: **9.64/10.00**), with a focus on **Artificial Intelligence, Machine Learning, and Signal Processing**. My thesis explores **Adaptive Sinusoidal Models for Parkinson's disease**. I am also a member of the [Speech Signal Processing Lab](https://www.csd.uoc.gr/~sspl/) as an MSc student. In addition, I serve as a Teaching Assistant in the *Applied Mathematics for Engineers* and *Digital Signal Processing* courses, supporting lectures, grading, and student mentoring.
+I am an MSc student in Computer Science and Engineering at the [University of Crete](https://www.csd.uoc.gr) (GPA: **9.64/10.00**), with a focus on **Artificial Intelligence, Machine Learning, and Signal Processing**. My thesis explores **Parkinson's disease detection from speech signals using advanced sinusoidal models**. I am also a member of the [Speech Signal Processing Lab](https://www.csd.uoc.gr/~sspl/)(SSPL) as an MSc student. In addition, I serve as a Teaching Assistant in the *Applied Mathematics for Engineers*, *Digital Signal Processing*, *Digital Speech Signal Processing* and *Introduction to Deep Generative Models* courses, supporting lectures, grading, and student mentoring.
 
 ---
 
@@ -27,7 +27,7 @@ In parallel, I am a research intern at the [Data Science Lab of IACM-FORTH](http
 
 I also contributed to the IACM's research on complex systems by **designing and implementing graph traversal algorithms** for **optimal sensor placement** in Water Distribution Networks, enabling accurate leak localization using **Python, GeoPandas, NetworkX, and GIS**.
 
-My recent research at the Speech Signal Processing Lab involves developing deep learning models for **Tuberculosis detection** from cough audio signals, achieving robust classification between healthy and unhealthy samples using **Python, Sklearn, and TensorFlow**. I have also assisted in building and evaluating a 20-hour multi-speaker Greek speech dataset, training state-of-the-art text-to-speech models with **ESPnet**.
+My recent research at the IACM-FORTH and Speech Signal Processing Lab involves developing deep learning models for **Tuberculosis detection** from cough audio signals, achieving robust classification between healthy and unhealthy samples using **Python, Sklearn, and TensorFlow**. I have also assisted in building and evaluating STOMA: a new multi-speaker Greek speech corpus designed to advance research in text-to-speech (TTS) synthesis and related speech technologies for under-resourced languages. My role involved training and running inference on state-of-the-art text-to-speech models using **ESPnet** . You can find the dataset on [HuggingFace](https://huggingface.co/datasets/aangelakis/STOMA).
 
 ---
 
