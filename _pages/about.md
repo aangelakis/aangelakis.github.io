@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an MSc student in Computer Science and Engineering at the [University of Crete](https://www.csd.uoc.gr) (GPA: **9.64/10.00**), with a focus on **Artificial Intelligence, Machine Learning, and Signal Processing**. My thesis explores **Adaptive AM-FM Features for Parkinson's Disease Detection from Speech**. I am also a member of the [Speech Signal Processing Lab](https://www.csd.uoc.gr/~sspl/) (SSPL) as an MSc student. In addition, I serve as a Teaching Assistant in the *Applied Mathematics for Engineers*, *Digital Signal Processing* *Digital Speech Signal Processing*, supporting lectures, grading, and student mentoring.
+I am an MSc student in Computer Science and Engineering at the [University of Crete](https://www.csd.uoc.gr) (GPA: **9.64/10.00**), with a focus on **Artificial Intelligence, Machine Learning, and Signal Processing**. My thesis explores **Adaptive AM-FM Features for Parkinson's Disease Detection from Speech**. I am also a member of the [Speech Signal Processing Lab](https://www.csd.uoc.gr/~sspl/) (SSPL) as an MSc student. In addition, I serve as a Teaching Assistant in the *Applied Mathematics for Engineers*, *Digital Signal Processing* and *Digital Speech Signal Processing*, supporting lectures, grading, and student mentoring.
 
 In parallel, I am a research intern at the [Data Science Lab of IACM-FORTH](https://www.iacm.forth.gr/divisions/numerical-analysis-computational-systems/data-science), working with Dr. Yannis Pantazis. 
 
